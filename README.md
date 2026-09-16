@@ -5,6 +5,7 @@ This is my repo for the Git/GitHub homework assignment. It covers creating a rep
 ## Files
 
 - `hello_world.py` - prints `Hello, World!`
+- `apple.py` - prints `I eat apple`, added on a separate branch called `feature-1`
 - `README.md` - this file
 
 ## What I Did
